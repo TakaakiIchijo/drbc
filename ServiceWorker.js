@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-drb_companion-1.0.2";
+const cacheName = "DefaultCompany-DRBC-1.0.2";
 const contentToCache = [
     "Build/Web.loader.js",
     "Build/Web.framework.js.unityweb",
