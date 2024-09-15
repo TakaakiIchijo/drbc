@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-DRBC-1.0.2";
 const contentToCache = [
-    "Build/BuildWeb.loader.js",
-    "Build/BuildWeb.framework.js.unityweb",
-    "Build/BuildWeb.data.unityweb",
-    "Build/BuildWeb.wasm.unityweb",
+    "Build/drbc.loader.js",
+    "Build/drbc.framework.js.unityweb",
+    "Build/drbc.data.unityweb",
+    "Build/drbc.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
