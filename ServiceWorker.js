@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-DRBC-1.0.2_2024-0923-2231";
+const cacheName = "DefaultCompany-DRBC-1.0.2_2024-0923-2242";
 const contentToCache = [
     "Build/drbc.loader.js",
     "Build/drbc.framework.js.unityweb",
