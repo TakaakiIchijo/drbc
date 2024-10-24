@@ -1,6 +1,6 @@
 {
-    "name": "DRBC",
-    "short_name": "DRBC",
+    "name": "Companion DRB",
+    "short_name": "Companion DRB",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
